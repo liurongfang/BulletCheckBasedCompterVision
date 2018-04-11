@@ -1,0 +1,121 @@
+//{{NO_DEPENDENCIES}}
+// Microsoft Visual C++ generated include file.
+// Used by bTstFace.rc
+//
+#define IDM_ABOUTBOX                    0x0010
+#define IDD_ABOUTBOX                    100
+#define IDS_ABOUTBOX                    101
+#define IDD_BTSTFACE_DIALOG             102
+#define IDR_MAINFRAME                   128
+#define IDR_MENU1                       129
+#define IDR_TOOLBAR1                    130
+#define IDD_HELP                        132
+#define IDD_CALIBRAT                    133
+#define IDD_SETTING                     134
+#define IDC_LIGHT_SLIDER                1000
+#define IDC_THRE_SLIDER                 1001
+#define IDC_PIC0                        1002
+#define IDC_PIC1                        1003
+#define IDC_PIC2                        1004
+#define IDC_PIC3                        1005
+#define IDC_OK                          1006
+#define IDC_SUDU_SLIDER                 1006
+#define IDC_                            1007
+#define IDC_SUDU_VALUE                  1007
+#define IDC_NOW_TYPE                    1008
+#define IDC_COUNT_SUM                   1009
+#define IDC_COUNT_A                     1010
+#define IDC_COUNT_B                     1011
+#define IDC_COUNT_C                     1012
+#define IDC_COUNT_D                     1013
+#define IDC_LIGHTVALUE                  1014
+#define IDC_THRESVALUE                  1015
+#define IDC_CONTRAST_SLIDER             1016
+#define IDC_THRESVALUE2                 1017
+#define IDC_BUTTON2                     1018
+#define IDC_ERODE_SLIDER                1018
+#define IDC_SUDU_SLIDER2                1018
+#define IDC_PICCTRL_FRMWORK             1019
+#define IDC_BULLET                      1020
+#define IDC_BULLETSIZE                  1020
+#define IDC_CHECK1                      1021
+#define IDC_CHECK2                      1022
+#define IDC_ERODE_VALUE                 1023
+#define IDC_THANKS                      1024
+#define IDC_TIP                         1025
+#define IDC_EDIT1                       1027
+#define IDC_ADJUST_BTN                  1028
+#define IDC_PIC                         1029
+#define IDC_EDIT2                       1030
+#define IDC_EDIT_PRICISION              1030
+#define IDC_EDIT3                       1031
+#define IDC_EDIT_AREAMIN                1031
+#define IDC_EDIT4                       1032
+#define IDC_EDIT_AREAMAX                1032
+#define IDC_COMSEL                      1033
+#define IDC_COMS                        1033
+#define IDC_BOTSEL                      1034
+#define IDC_BOTS                        1034
+#define IDC_TSTCOM                      1035
+#define IDC_TEXT1                       1036
+#define IDC_TEXT2                       1037
+#define IDC_TEXT3                       1038
+#define IDC_TEXT5                       1039
+#define IDC_TEXT4                       1040
+#define IDC_TEXT6                       1041
+#define IDC_EDIT_SELAREA                1042
+#define IDC_TEXT7                       1043
+#define IDC_EDIT_DIPSCALE               1044
+#define IDC_BUTTON1                     1045
+#define IDC_Btn_CLEAR                   1045
+#define IDC_COUNTCLS_BTN                1045
+#define IDC_SAVEDATA_BTN                1045
+#define IDC_CHECK3                      1047
+#define IDC_MSCOMM1                     1048
+#define IDC_TEX1                        1049
+#define IDC_TEX2                        1050
+#define IDC_SLIDER1                     1051
+#define IDC_SELECT_SLIDER               1051
+#define IDC_SELECT_VALUE                1052
+#define IDC_TEX3                        1053
+#define IDC_DETAIL                      1054
+#define IDC_COUNT_STATIC                1055
+#define IDC_EDIT_COUNTAREA              1056
+#define IDC_TEXT8                       1057
+#define ID_32771                        32771
+#define ID_32772                        32772
+#define ID_32773                        32773
+#define ID_32774                        32774
+#define ID_ReadPictue                   32775
+#define ID_Read                         32776
+#define ID_ReadVideo                    32777
+#define ID_Real                         32778
+#define ID_RealFilm                     32779
+#define ID_BUTTON32780                  32780
+#define ID_32787                        32787
+#define ID_opencamera                   32788
+#define ID_32789                        32789
+#define ID_quit                         32790
+#define ID_about                        32791
+#define ID_32792                        32792
+#define ID_snapshoot                    32793
+#define ID_32794                        32794
+#define ID_32795                        32795
+#define ID_32796                        32796
+#define ID_LINKCAM                      32797
+#define ID_EXIT                         32798
+#define ID_32799                        32799
+#define ID_32800                        32800
+#define ID_ADJUST                       32801
+#define ID_SETTING                      32802
+
+// Next default values for new objects
+// 
+#ifdef APSTUDIO_INVOKED
+#ifndef APSTUDIO_READONLY_SYMBOLS
+#define _APS_NEXT_RESOURCE_VALUE        137
+#define _APS_NEXT_COMMAND_VALUE         32810
+#define _APS_NEXT_CONTROL_VALUE         1058
+#define _APS_NEXT_SYMED_VALUE           101
+#endif
+#endif

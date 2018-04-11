@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="bTstFace">
+</Property><Property Name="解决方案文件" Value="F:\创业2014\子弹壳外形检测\EndTestbTstFace_Last_20131221_最终版本\EndTestbTstFace_Last_20131221_最终版本\bTstFace.sln">
+</Property><Property Name="用户选项文件" Value="F:\创业2014\子弹壳外形检测\EndTestbTstFace_Last_20131221_最终版本\EndTestbTstFace_Last_20131221_最终版本\bTstFace.suo">
+</Property><Property Name="Date" Value="2015年8月6日">
+</Property><Property Name="Time" Value="14:01">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="bTstFace.sln" Description="文件已成功备份为 F:\创业2014\子弹壳外形检测\EndTestbTstFace_Last_20131221_最终版本\EndTestbTstFace_Last_20131221_最终版本\bTstFace.sln.old">
+</Event><Event ErrorLevel="0" Project="" Source="bTstFace.suo" Description="文件已成功备份为 F:\创业2014\子弹壳外形检测\EndTestbTstFace_Last_20131221_最终版本\EndTestbTstFace_Last_20131221_最终版本\bTstFace.suo.old">
+</Event><Event ErrorLevel="0" Project="bTstFace" Source="bTstFace\bTstFace.vcproj" Description="Converting project file 'F:\创业2014\子弹壳外形检测\EndTestbTstFace_Last_20131221_最终版本\EndTestbTstFace_Last_20131221_最终版本\bTstFace\bTstFace.vcproj'.">
+</Event><Event ErrorLevel="1" Project="bTstFace" Source="bTstFace\bTstFace.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="0" Project="bTstFace" Source="bTstFace\bTstFace.vcproj" Description="Done converting to new project file 'F:\创业2014\子弹壳外形检测\EndTestbTstFace_Last_20131221_最终版本\EndTestbTstFace_Last_20131221_最终版本\bTstFace\bTstFace.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="bTstFace" Source="bTstFace\bTstFace.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="bTstFace.sln" Description="成功转换解决方案">
+</Event><Event ErrorLevel="3" Project="" Source="bTstFace.sln" Description="Converted">
+</Event></UpgradeLog>

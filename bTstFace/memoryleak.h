@@ -1,0 +1,13 @@
+#pragma once
+
+#define _CRTDBG_MAP_ALLOC
+
+#include <stdlib.h>
+
+#include <crtdbg.h>
+
+#ifdef _DEBUG
+
+#define new DEBUG_NEW
+
+#endif

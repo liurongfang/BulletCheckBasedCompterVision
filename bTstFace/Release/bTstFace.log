@@ -1,0 +1,47 @@
+﻿生成启动时间为 2015/8/16 10:33:18。
+     1>项目“D:\project\BulletDetection\BulletDetection\bTstFace\bTstFace.vcxproj”在节点 2 上(rebuild 个目标)。
+     1>_PrepareForClean:
+         正在删除文件“Release\bTstFace.lastbuildstate”。
+       InitializeBuildStatus:
+         正在创建“Release\bTstFace.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D _WINDOWS /D NDEBUG /D _MBCS /D _AFXDLL /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yc"StdAfx.h" /Fp"Release\bTstFace.pch" /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D _WINDOWS /D NDEBUG /D _MBCS /D _AFXDLL /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Release\bTstFace.pch" /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt Adjust.cpp bTstFace.cpp bTstFaceDlg.cpp CvvImage.cpp Dsicribe.cpp mscomm1.cpp Setting.cpp
+         Adjust.cpp
+     1>c:\program files\opencv\opencv\build\include\opencv2\flann\logger.h(66): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : 参见“fopen”的声明
+         bTstFace.cpp
+         bTstFaceDlg.cpp
+     1>c:\program files\opencv\opencv\build\include\opencv2\flann\logger.h(66): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : 参见“fopen”的声明
+         CvvImage.cpp
+         Dsicribe.cpp
+     1>Dsicribe.cpp(72): warning C4244: “初始化”: 从“ULONGLONG”转换到“int”，可能丢失数据
+         mscomm1.cpp
+         Setting.cpp
+       ResourceCompile:
+         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /D NDEBUG /D _AFXDLL /l"0x0804" /IRelease\ /nologo /fo"Release\bTstFace.res" bTstFace.rc 
+       Link:
+         C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\project\BulletDetection\BulletDetection\Release\bTstFace.exe" /INCREMENTAL:NO /NOLOGO opencv_calib3d247.lib opencv_contrib247.lib opencv_core247.lib opencv_features2d247.lib opencv_flann247.lib opencv_gpu247.lib opencv_highgui247.lib opencv_imgproc247.lib opencv_legacy247.lib opencv_ml247.lib opencv_objdetect247.lib opencv_ts247.lib opencv_video247.lib /MANIFEST /ManifestFile:"Release\bTstFace.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\project\BulletDetection\BulletDetection\Release\bTstFace.pdb" /SUBSYSTEM:WINDOWS /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\project\BulletDetection\BulletDetection\Release\bTstFace.lib" /MACHINE:X86 Release\bTstFace.res
+         Release\Adjust.obj
+         Release\bTstFace.obj
+         Release\bTstFaceDlg.obj
+         Release\CvvImage.obj
+         Release\Dsicribe.obj
+         Release\mscomm1.obj
+         Release\Setting.obj
+         Release\stdafx.obj
+         正在生成代码
+         已完成代码的生成
+         bTstFace.vcxproj -> D:\project\BulletDetection\BulletDetection\Release\bTstFace.exe
+       Manifest:
+         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"D:\project\BulletDetection\BulletDetection\Release\bTstFace.exe;#1" /manifest Release\bTstFace.exe.intermediate.manifest "C:\Program Files\Microsoft Visual Studio 10.0\VC\Include\Manifest\dpiaware.manifest"
+       FinalizeBuildStatus:
+         正在删除文件“Release\bTstFace.unsuccessfulbuild”。
+         正在对“Release\bTstFace.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“D:\project\BulletDetection\BulletDetection\bTstFace\bTstFace.vcxproj”(rebuild 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:14.69
